@@ -14,7 +14,7 @@
   "require": {
     "contao/core-bundle": "^4.4",
     "terminal42/notification_center": "^1.4",
-    "guzzlehttp/guzzle": "^6.3"
+    "guzzlehttp/guzzle": "^7.9"
   },
   "require-dev": {
     "contao/manager-plugin": "^2.0"
