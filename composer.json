@@ -1,5 +1,5 @@
 {
-  "name": "presprog/contao-slack-notification",
+  "name": "wangaz/contao-slack-notification",
   "type": "contao-bundle",
   "description": "Send messages to your Slack webhook with the Contao Notification Center",
   "keywords": [ "Notification", "Slack", "Webhook", "Contao" ],
